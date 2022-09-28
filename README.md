@@ -1,6 +1,6 @@
 # Simple use of use Reducer Hook
 
-See [Demo](valakasgg.github.io/react-counter-useReducer).
+See [Demo](https://valakasgg.github.io/react-counter-useReducer/).
 
 ## Available Scripts
 
