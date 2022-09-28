@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple use of use Reducer Hook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See [Demo](valakasgg.github.io/react-counter-useReducer).
 
 ## Available Scripts
 
